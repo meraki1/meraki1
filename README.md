@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @meraki1
+- 👀 I’m interested in IE (industrial engineering) and Data Analysis.
+- 🌱 I’m currently learning SQL, Excel, Python.
